@@ -1,0 +1,188 @@
+{
+  "images" : [
+    {
+      "filename" : "Default@2x~universal~anyany 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 8.png",
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 18.png",
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 19.png",
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "3x",
+      "width-class" : "compact"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 3.png",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 4.png",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 5.png",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 17.png",
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 16.png",
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 15.png",
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 14.png",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 13.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 12.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "width-class" : "compact"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 11.png",
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 10.png",
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 9.png",
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "width-class" : "compact"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 6.png",
+      "idiom" : "ipad",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Default@2x~universal~anyany 7.png",
+      "idiom" : "ipad",
+      "scale" : "2x"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "ipad",
+      "scale" : "1x"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "ipad",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "width-class" : "compact"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
