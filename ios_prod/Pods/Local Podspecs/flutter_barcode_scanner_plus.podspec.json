@@ -1,0 +1,29 @@
+{
+  "name": "flutter_barcode_scanner_plus",
+  "version": "3.0.7",
+  "summary": "An enhanced Flutter plugin for barcode scanning on Android and iOS.",
+  "description": "An enhanced Flutter plugin for barcode scanning on Android and iOS with additional features.",
+  "homepage": "https://github.com/SarangthemAmarjit/flutter_barcode_scanner_plus",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Sarangthem Amarjit Meetei": "sarangthemamarjit123@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*.{swift,h,m}",
+  "public_header_files": "Classes/**/*.h",
+  "resources": "Assets/*.png",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

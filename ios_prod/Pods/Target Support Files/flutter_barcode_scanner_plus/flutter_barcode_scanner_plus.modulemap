@@ -1,0 +1,6 @@
+framework module flutter_barcode_scanner_plus {
+  umbrella header "flutter_barcode_scanner_plus-umbrella.h"
+
+  export *
+  module * { export * }
+}

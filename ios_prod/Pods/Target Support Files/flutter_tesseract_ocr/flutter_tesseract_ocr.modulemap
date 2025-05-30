@@ -1,0 +1,6 @@
+framework module flutter_tesseract_ocr {
+  umbrella header "flutter_tesseract_ocr-umbrella.h"
+
+  export *
+  module * { export * }
+}
